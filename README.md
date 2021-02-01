@@ -35,5 +35,5 @@ E. Manifest :
 - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
-[![Demo CountPages alpha](https://share.gifyoutube.com/5NjklYBNYdY.gif)](https://www.youtube.com/watch?v=5NjklYBNYdY)
+[![UAS RKS](http://gif.run/5NjklYBNYdY)](https://www.youtube.com/watch?v=5NjklYBNYdY)
 
