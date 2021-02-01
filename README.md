@@ -36,4 +36,4 @@ E. Manifest :
 
 F. Berikut Video saat saya Running di Android Studio :
 
-[<img src="https://j.gifs.com/1Wgz90.gif">](https://www.youtube.com/watch?v=5NjklYBNYdY)
+[<img src="https://j.gifs.com/1Wgz90.gif" width="70%">](https://www.youtube.com/watch?v=5NjklYBNYdY)
