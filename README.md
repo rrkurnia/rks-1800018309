@@ -22,26 +22,17 @@ B. Java :
 
 C. Drawable :
 
-- bg_btn.xml
-- bg_btn_bac.xml
-- btn.xml
-- grp.png
-- hitm.webp
-- hood.jpg
-- ic_lock.xml
-- ic_person.xml
-- merah.jpg
-- pnk.webp
-- sukses.png
-- wl.png
-- yo.png
+- ic_launcher_background.xml
 
 D. Values :
 
 - strings.xml
+- colors.xml
+- themes.xml
 
 E. Manifest :
 
 - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
+
