@@ -12,12 +12,14 @@ A. Layout :
 - activity_buat.xml
 - activity_find.xml
 - activity_password.xml
+
 B. Java :
 
 - MainActivity.java
 - Buat.java
 - Find.java
 - Password.java
+
 C. Drawable :
 
 - bg_btn.xml
@@ -33,10 +35,13 @@ C. Drawable :
 - sukses.png
 - wl.png
 - yo.png
+
 D. Values :
 
 - strings.xml
+
 E. Manifest :
 
 - AndroidManifest.xml
+
 F. Berikut Video saat saya Running di Android Studio :
