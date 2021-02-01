@@ -35,4 +35,4 @@ E. Manifest :
 - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
-[![UAS RKS](https://j.gifs.com/1Wgz90.gif) width="50%"](https://www.youtube.com/watch?v=5NjklYBNYdY)
+[![UAS RKS][<img src="https://j.gifs.com/1Wgz90.gif" width="50%">](https://www.youtube.com/watch?v=5NjklYBNYdY)
