@@ -1,6 +1,6 @@
 Tugas Kuliah
 
-Pada Aplikasi Google Drive yang saya buat ini menggunakan Android Studio yang dimana untuk membuat Front End nya ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yang berisi workflow, wireframe, dan dokumentasi kebutuhan :
+Pada Aplikasi Google Drive yang saya buat ini menggunakan Android Studio, untuk membuat Front End nya ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yang telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yang berisi user story & UAT, workflow, wireframe, dan rincian kebutuhan :
 
 https://drive.google.com/drive/folders/1rJrNoiL_jc6u8JkAIGEj4EXcdUgPNNxY?usp=sharing
 
