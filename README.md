@@ -35,5 +35,5 @@ E. Manifest :
 - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
-[<img src="https://img.youtube.com/vi/5NjklYBNYdY/maxresdefault.jpg" width="50%">](https://youtu.be/5NjklYBNYdY)
+[![Demo CountPages alpha](https://share.gifyoutube.com/5NjklYBNYdY.gif)](https://www.youtube.com/watch?v=5NjklYBNYdY)
 
