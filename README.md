@@ -35,5 +35,5 @@ E. Manifest :
 - AndroidManifest.xml
 
 F. Berikut Video saat saya Running di Android Studio :
-[![Watch the video](https://youtu.be/5NjklYBNYdY)
+[<img src="https://img.youtube.com/vi/5NjklYBNYdY/maxresdefault.jpg" width="50%">](https://youtu.be/5NjklYBNYdY)
 
